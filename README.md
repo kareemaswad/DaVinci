@@ -1,5 +1,21 @@
 # Pick and Place
 
+clone to dvrk-ros
+
+
+Edit launch file to include your own directories
+
+
+cd to folder and launch file
+
+```
+roslaunch dvrk_full_cart_simulated.launch 
+```
+
+In CoppeliaSim open scene pick_and_place_final_10.ttt
+
+
+Now lauch jupyter notebooks and refer to the following commands:
 
 First, make sure you get the most recent transformations
 ```python 

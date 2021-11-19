@@ -47,3 +47,9 @@ To move the camera in a way that centers the frame about an object, in this case
 center_frame(balls[0].world_coordinates, 0.005, 0.005)
 ```
 
+# dvrk_nav_ds4
+
+Follow this to connect ds4 to ROS
+https://ben.bongalon.com/robot/using-a-playstation-ds4-with-ros-kinetic-on-ubuntu-16-04/
+
+Luanch dvrk_nav_ds4.py to control robot in simulation using ds4
